@@ -2,7 +2,7 @@ import pygame
 import sys
 import random
 
-# Pygame 초기화
+# Pygame 초기화dkdkdkdkdkdkd
 pygame.init()
 
 # 화면 설정
