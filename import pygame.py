@@ -17,7 +17,7 @@ black = (0, 0, 0)
 gray = (200, 200, 200)
 blue = (173, 216, 230)
 
-# 한글 폰트 설정 (시스템에 설치된 폰트 경로를 지정해야 합니다)
+# 한글 폰트 설정 (시스템에 설치된 폰트 경로를 지정해야 합니다//)
 font_path = "C:/Windows/Fonts/malgun.ttf"  # Windows용 맑은 고딕 폰트
 font = pygame.font.Font(font_path, 36)
 
